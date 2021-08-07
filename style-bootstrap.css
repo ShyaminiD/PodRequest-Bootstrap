@@ -1,0 +1,70 @@
+.container {
+    background: #111725;
+    position:relative;
+    
+    
+}
+.row > * {
+    background: #111725;
+    /*border: 1px solid tomato;*/
+}
+
+.fs-3 {
+    color:#dcdee2;
+    font-weight:bolder;
+    position: absolute;
+    top:3rem;
+    left:3rem;
+}
+.fs-4 {
+    text-transform: uppercase;
+    color:#dcdee2;
+    text-align:center;
+    padding: 1rem;
+}
+
+.fs-4 > span{
+    color:rgb(40 103 86);
+
+}
+
+.info {
+    color:#707583;
+    font-size: 0.6rem;
+    padding: 3rem;
+    line-height:1rem;
+
+}
+
+.logos {
+    color:#5a6689;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-size:0.6rem;
+    color:#5a6689;
+
+}
+
+
+
+
+    .col-4{
+        position: absolute;
+        left: 10rem;
+        top: 15rem;
+    }
+    section {
+        background: #111725;
+        margin:10px;
+        height:100vh;
+    }
+  
+    .col-5{
+        position: absolute;
+        top:7rem;
+        right:0rem;
+        
+    }
+
+    
